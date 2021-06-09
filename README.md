@@ -1,1 +1,1 @@
-# stacked-ranet-cifer10
+# Stacked RACIFER10Net 
